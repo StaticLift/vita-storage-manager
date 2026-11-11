@@ -1,0 +1,6 @@
+build/
+build-debug/
+release/
+dev/
+*.vpk
+__pycache__/
